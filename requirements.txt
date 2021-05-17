@@ -73,5 +73,4 @@ Werkzeug==2.0.0
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.4.1
-Flask==1.1.2
 gunicorn==20.0.4
